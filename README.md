@@ -1,6 +1,6 @@
 ## FoodCavernPH: A Seamless Food Ordering Application
 
-## FoodCavernPH is an innovative food ordering application developed using the robust Django framework. This cutting-edge platform revolutionizes the way users interact with food stalls, providing a convenient and hassle-free experience. With FoodCavernPH, users can effortlessly browse, select, and order their favorite dishes from a wide range of food stalls, eliminating the need to wait in long queues. Moreover, the application offers real-time order tracking to ensure prompt and smooth delivery of ready orders.
+FoodCavernPH is an innovative food ordering application developed using the robust Django framework. This cutting-edge platform revolutionizes the way users interact with food stalls, providing a convenient and hassle-free experience. With FoodCavernPH, users can effortlessly browse, select, and order their favorite dishes from a wide range of food stalls, eliminating the need to wait in long queues. Moreover, the application offers real-time order tracking to ensure prompt and smooth delivery of ready orders.
 
 ## Key Features
 ## Intuitive Menu Exploration
