@@ -13,7 +13,7 @@ Gone are the days of physically visiting food stalls to place orders. FoodCavern
 ## Real-Time Order Tracking
 FoodCavernPH goes above and beyond by providing a real-time order tracking feature. Users can stay updated with the status of their orders, ensuring transparency and peace of mind. Whether your order is being prepared, out for delivery, or ready for pickup, the application keeps you informed every step of the way. This feature eliminates uncertainty and allows users to plan their day accordingly, knowing when to expect their delicious meals.
 
-## Conclusion
+## Summary
 FoodCavernPH is a state-of-the-art food ordering application that brings convenience and efficiency to the dining experience. With its user-friendly interface, seamless online ordering, and real-time order tracking, the application sets new standards in the industry. By incorporating FoodCavernPH into my portfolio, I showcase my ability to develop professional and user-centric applications that cater to the needs of today's tech-savvy consumers.
 
 
