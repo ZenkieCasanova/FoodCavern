@@ -22,7 +22,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](SCREENSHOTS/Screenshot 2023-06-03 220723.jpg)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
