@@ -19,3 +19,11 @@ FoodCavernPH is a state-of-the-art food ordering application that brings conveni
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
