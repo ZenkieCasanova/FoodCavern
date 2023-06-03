@@ -22,8 +22,22 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Screenshots
 
+## Front
 ![App Screenshot](https://github.com/ZenkieCasanova/FoodCavern/blob/edf36ee584dbd9925c2c6afed376f6e40cf75409/SCREENSHOTS/Screenshot%202023-06-03%20220723.jpg)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ZenkieCasanova/FoodCavern/blob/5441bbe8b64772d8ab2aefff03b1a2c96ce20ad4/SCREENSHOTS/Screenshot%202023-06-03%20220927.jpg)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ZenkieCasanova/FoodCavern/blob/5441bbe8b64772d8ab2aefff03b1a2c96ce20ad4/SCREENSHOTS/Screenshot%202023-06-03%20221237.jpg)
+
+![App Screenshot](https://github.com/ZenkieCasanova/FoodCavern/blob/5441bbe8b64772d8ab2aefff03b1a2c96ce20ad4/SCREENSHOTS/Screenshot%202023-06-03%20221250.jpg)
+
+![App Screenshot](https://github.com/ZenkieCasanova/FoodCavern/blob/5441bbe8b64772d8ab2aefff03b1a2c96ce20ad4/SCREENSHOTS/Screenshot%202023-06-03%20221337s.jpg)
+
+## Admin Database
+![App Screenshot](https://github.com/ZenkieCasanova/FoodCavern/blob/5441bbe8b64772d8ab2aefff03b1a2c96ce20ad4/SCREENSHOTS/Screenshot%202023-06-03%20221637.jpg)
+
+![App Screenshot](https://github.com/ZenkieCasanova/FoodCavern/blob/5441bbe8b64772d8ab2aefff03b1a2c96ce20ad4/SCREENSHOTS/Screenshot%202023-06-03%20221724.jpg)
+
+![App Screenshot](https://github.com/ZenkieCasanova/FoodCavern/blob/5441bbe8b64772d8ab2aefff03b1a2c96ce20ad4/SCREENSHOTS/Screenshot%202023-06-03%20221937.jpg)
+
+![App Screenshot](https://github.com/ZenkieCasanova/FoodCavern/blob/5441bbe8b64772d8ab2aefff03b1a2c96ce20ad4/SCREENSHOTS/Screenshot%202023-06-03%20222146.jpg)
