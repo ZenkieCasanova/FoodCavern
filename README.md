@@ -22,7 +22,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Screenshots
 
-![App Screenshot]([SCREENSHOTS/Screenshot 2023-06-03 220723.jpg](https://github.com/ZenkieCasanova/FoodCavern/blob/542f85c0a1604a2ea0a6e6499b8f24745b417793/SCREENSHOTS/Screenshot%202023-06-03%20220723.jpg))
+![App Screenshot](https://github.com/ZenkieCasanova/FoodCavern/blob/edf36ee584dbd9925c2c6afed376f6e40cf75409/SCREENSHOTS/Screenshot%202023-06-03%20220723.jpg)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
